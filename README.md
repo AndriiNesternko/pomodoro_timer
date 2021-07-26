@@ -8,6 +8,6 @@ While you can use any timer (or timer app) you want, a dedicated Pomodoro app ca
 
 # Pomodoro Timer
 
-![alt text](pomodoro2.jpg)
 ![alt text](pomodoro1.jpg)
 ![alt text](pomodoro3.jpg)
+![alt text](pomodoro2.jpg)
